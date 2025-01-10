@@ -60,6 +60,10 @@ Preguntas sobre el Sorteo AFORE PENSIONISSSTE 2025:
 
 7. **¿Te has beneficiado de algún sorteo de AFORE en el pasado?**
    Cuéntanos tu experiencia si has sido afortunado en otros sorteos.
+
+### Desarrollado por:
+- Javier Horacio Pérez Ricárdez
+   
 """)
 
 # Enlace del Google Forms modificado para incrustar
